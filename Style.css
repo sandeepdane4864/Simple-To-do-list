@@ -1,0 +1,50 @@
+.delete{
+    cursor: pointer;
+    border-radius:5px;
+    background-color: #ff4d4d;
+}
+button{
+font-size: 8px;
+    
+
+}
+h1{
+    text-align: center;
+    color: #ff4d4d;
+    font-size: 2.5em;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+input{
+    width: 33%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+
+div{
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+li{
+    padding:2px
+
+}
+ul{
+    list-style-position: inside;
+    padding: 0;
+    margin: 40px auto;
+    width: 50%;
+    text-align: left;
+    margin-top: 20px;
+}
+ul li:hover{
+    background-color: #f2f2f2;
+    cursor: pointer;
+}
+.delete:hover{
+    transform: scale(1.2);
+}
